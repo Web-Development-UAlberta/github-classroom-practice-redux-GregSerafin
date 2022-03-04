@@ -1,1 +1,3 @@
 Hello, this is a test. Testing 123.
+
+Fixed an issue about not being able to see grades.
